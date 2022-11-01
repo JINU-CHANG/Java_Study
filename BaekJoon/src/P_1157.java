@@ -9,6 +9,7 @@ public class P_1157 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner(System.in);
 		
 		String word = sc.nextLine();
@@ -59,6 +60,8 @@ public class P_1157 {
 		}
 
 		sc.close();
+		
+		//test
 	}
 
 }
